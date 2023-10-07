@@ -1,0 +1,26 @@
+{'email': 'nikos@weew.com', 'subject': 'Test', 'message': 'Database test'}
+wefe@wfsfsdg.vom,sdfdsv,sdsdfdsf
+hello@sdfsdf.com,test2,test2222222
+asdasd@sdsfgdf.com,test3,test33333333333
+csv@csv.com,test,csv database
+nikosanastasiou3@gmail.com,asdfsad,asdasdsa
+nikosanastasiou3@gmail.com,asdfsad,asdasdsa
+nikosanastasiou3@gmail.com,asdfsad,asdasdsa
+nikosanastasiou3@gmail.com,asdfsad,asdasdsa
+nikosanastasiou3@gmail.com,asdfsad,asdasdsa
+nikosanastasiou3@gmail.com,asdfsad,asdasdsa
+nikosanastasiou3@gmail.com,asdfsad,asdasdsa
+asdasd@sdfsf.com,asdfasf,sdfsdf
+asdasd@sdfsf.com,asdfasf,sdfsdf
+asdasd@sdfsf.com,asdfasf,sdfsdf
+dfsdf@wefsf.com,sdvsv,sdfsdf
+dfsdf@wefsf.com,sdvsv,sdfsdf
+dfsdf@wefsf.com,sdvsv,sdfsdf
+dfsdf@wefsf.com,sdvsv,sdfsdf
+dssdf@sdfdf.com,dsvsdv,sdfsdf
+wefsdf@sdfdf.com,sdfsdf,sdfsdf
+wefsdf@sdfdf.com,sdfsdf,sdfsdf
+wefsdf@sdfdf.com,sdfsdf,sdfsdf
+asdfasd@sdfsdf.com,sdfsdf,sdfsdfsdf
+asdfasd@sdfsdf.com,sdfsdf,sdfsdfsdf
+asdfasd@sdfsdf.com,sdfsdf,sdfsdfsdf
